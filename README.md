@@ -1,6 +1,6 @@
 # Mobile Prototype of Curhatin Indonesia
 
-This prototype presented for IncubateIND-Ideathon 2020
+This prototype presented for IncubateIND International Ideathon 2020 by Mobile Marketing Association
 
 Team:
 **Curhatin Indonesia**
